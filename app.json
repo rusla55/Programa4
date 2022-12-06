@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Programa4",
+    "slug": "Programa4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Programa4"
+}
